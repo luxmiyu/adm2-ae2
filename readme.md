@@ -5,6 +5,10 @@ using blocks from Applied Energistics 2.
 
 ![ModMenu Preview](src/main/resources/assets/adm2-ae2/modmenu_preview.png)
 
+- [Get on Modrinth](https://modrinth.com/mod/adm2-ae2)
+- [Get on CurseForge](https://www.curseforge.com/minecraft/mc-mods/adm2-ae2)
+- [Get on Planet Minecraft](https://www.planetminecraft.com/mod/adm2-ae2)
+
 ### Developer Guide
 
 If you'd like to create your own data pack or mod expansion for Any Dimension Mod 2, check out the GitHub page for
