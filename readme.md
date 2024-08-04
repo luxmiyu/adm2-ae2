@@ -3,11 +3,14 @@
 This mod adds dimensions for [Any Dimension Mod 2](https://github.com/luxmiyu/adm2)
 using blocks from Applied Energistics 2.
 
-![ModMenu Preview](src/main/resources/assets/adm2-ae2/modmenu_preview.png)
+![Preview](images/preview.jpg)
 
-- [Get on Modrinth](https://modrinth.com/mod/adm2-ae2)
-- [Get on CurseForge](https://www.curseforge.com/minecraft/mc-mods/adm2-ae2)
-- [Get on Planet Minecraft](https://www.planetminecraft.com/mod/adm2-ae2)
+- ![Modrinth Icon](images/modrinth.png)
+  [Get on Modrinth](https://modrinth.com/mod/adm2-ae2)
+- ![CurseForge Icon](images/curseforge.png)
+  [Get on CurseForge](https://www.curseforge.com/minecraft/mc-mods/adm2-ae2)
+- ![Planet Minecraft Icon](images/planetminecraft.png)
+  [Get on Planet Minecraft](https://www.planetminecraft.com/mod/adm2-ae2)
 
 ### Developer Guide
 
